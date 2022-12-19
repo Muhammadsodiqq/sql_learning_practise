@@ -4,7 +4,7 @@
 -- Aggregate functionlarni biz GROOUP BY bilan yoki u siz ham ishllata olamiz.
 -- Aggregate functionlarni biz GROUP BY siz ham ishlatilganda biz tableni boshqa columnlarini to'g'ridan to'g'ri ola olmaymiz.
 -- Bunday holatni biz SubQuerylardan foydalanib hall qilishimiz mumkin
--- Aggregate functionlarni GROUP BY bilan ishlatganimizda esa SELECT listida faqat GROUp By da ishlatilgan ustunni , Aggregate funksiyallarni va Constantalardan foydalanishimiz mumkin.
+-- Aggregate functionlarni GROUP BY bilan ishlatganimizda esa SELECT listida faqat GROUP By da ishlatilgan ustunni , Aggregate funksiyallarni va Constantalardan foydalanishimiz mumkin.
 
 
 -- Aggregation funcsiyallar nomi || Izox

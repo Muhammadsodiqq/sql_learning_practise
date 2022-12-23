@@ -1,4 +1,4 @@
--- Active: 1671169905875@@127.0.0.1@5432@sql_learning@public
+-- Active: 1671798586429@@127.0.0.1@5432@sql_learning@public
 
 -- GROUP BY {{column}} - bu ushbu {{column}} 'bo\'yicha' gruppalangan holda olib kelib beradi. 
 -- GROUP BY ni ishlatganimizda biz SELECT listda Aggregate functionallardan ham foydalana olamiz. 
